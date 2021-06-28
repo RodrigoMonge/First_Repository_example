@@ -1,3 +1,3 @@
-def main():
-    print("Rodrigo Monge")
-main()
+def main(name):
+    print(name)
+main("Finn")
